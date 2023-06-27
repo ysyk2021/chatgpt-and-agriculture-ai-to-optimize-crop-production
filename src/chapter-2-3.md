@@ -3,11 +3,6 @@ Importance of Agriculture for Food Production
 
 In this chapter, we will explore the basics of agriculture and the importance of agriculture for food production.
 
-What is Agriculture?
---------------------
-
-Agriculture is the practice of cultivating land, raising livestock, and producing food, fiber, and other products for human use. It is one of the oldest and most important industries in the world and has played a crucial role in human development and civilization.
-
 Importance of Agriculture for Food Production
 ---------------------------------------------
 
