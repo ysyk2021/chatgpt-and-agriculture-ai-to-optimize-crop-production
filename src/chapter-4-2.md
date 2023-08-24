@@ -1,5 +1,3 @@
-How AI and Chatbots can Optimize Crop Production
-=======================================================================================================
 
 In this chapter, we will explore the role of AI and chatbots in agriculture and how they can be used to optimize crop production.
 

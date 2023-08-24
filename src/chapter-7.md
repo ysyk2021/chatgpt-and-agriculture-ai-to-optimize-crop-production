@@ -1,5 +1,3 @@
-Chapter 6: Future of Agriculture with ChatGPT
-=============================================
 
 In this chapter, we will discuss the potential advancements in agriculture with ChatGPT, as well as the emerging trends and challenges that will shape the future of agriculture with AI technologies like ChatGPT.
 

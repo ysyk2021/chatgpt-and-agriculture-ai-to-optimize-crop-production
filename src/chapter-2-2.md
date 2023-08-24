@@ -1,5 +1,3 @@
-Different Types of Crops
-==========================================================
 
 Agriculture is the practice of cultivating land, growing crops, and raising livestock for food, fuel, and other products. In this chapter, we will cover the basics of agriculture, including different types of crops that are commonly grown.
 

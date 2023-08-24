@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will discuss the features and capabilities of ChatGPT, an AI technology that can be used to optimize crop production in agriculture.
 

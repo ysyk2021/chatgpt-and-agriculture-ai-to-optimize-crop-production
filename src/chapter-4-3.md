@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Agriculture
-========================================================================================================
 
 In this chapter, we will discuss the benefits of using artificial intelligence (AI) and chatbots in agriculture.
 

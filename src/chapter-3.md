@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Crop Production
-========================================
 
 In this chapter, we will explore the challenges facing crop production in agriculture. We will discuss the factors that affect crop production, the common challenges faced by farmers, and the impact of these challenges on agricultural output.
 

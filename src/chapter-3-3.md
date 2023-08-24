@@ -1,5 +1,3 @@
-Impact of These Challenges on Agricultural Output
-===========================================================================================
 
 In this chapter, we will explore the challenges facing crop production in agriculture and their impact on agricultural output.
 

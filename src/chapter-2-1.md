@@ -1,5 +1,3 @@
-Definition of Agriculture
-===========================================================
 
 In this chapter, we will explore the definition of agriculture and its importance in our lives.
 

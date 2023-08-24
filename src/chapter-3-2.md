@@ -1,5 +1,3 @@
-Common Challenges Faced by Farmers
-============================================================================
 
 In this chapter, we will explore the common challenges faced by farmers in crop production.
 

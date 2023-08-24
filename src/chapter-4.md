@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Agriculture
-=====================================================
 
 In this chapter, we will explore the role of artificial intelligence (AI) and chatbots in agriculture. We will discuss what they are, how they can optimize crop production, and the benefits of using them in agriculture.
 

@@ -1,5 +1,3 @@
-Chapter 1: Basics of Agriculture
-================================
 
 In this chapter, we will explore the basics of agriculture, including its definition, different types of crops, and importance for food production.
 

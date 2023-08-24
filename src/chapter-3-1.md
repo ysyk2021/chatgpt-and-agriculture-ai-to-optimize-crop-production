@@ -1,5 +1,3 @@
-Factors Affecting Crop Production
-===========================================================================
 
 In this chapter, we will explore the factors that affect crop production in agriculture.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 In conclusion, several factors affect crop production in agriculture. Climate and weather, soil quality, water availability, pest and disease control, and access to technology and resources all play a critical role in determining crop yields and overall agricultural output. Addressing these factors is crucial for maintaining and improving food security, promoting sustainability, and ensuring the viability of the agriculture industry.
-
 
