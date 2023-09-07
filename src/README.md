@@ -8,3 +8,7 @@ The book cover the basics of AI in agriculture, the role of chatbots powered by 
 Whether you are a farmer, agricultural researcher, or simply interested in the latest trends and challenges facing agriculture today, this book will provide valuable insights into the ways that ChatGPT technology can transform the agricultural industry. By following best practices for implementation and leveraging the power of AI, farmers can stay ahead of the curve and achieve greater success in the ever-evolving world of agriculture.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
