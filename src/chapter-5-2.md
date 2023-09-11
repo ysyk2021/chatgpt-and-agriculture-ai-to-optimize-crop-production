@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by advanced AI technology, possesses a wide range of features and capabilities that make it an invaluable tool for optimizing crop production in agriculture. This chapter explores the key features and functionalities of ChatGPT that contribute to its effectiveness in the agricultural domain.
 

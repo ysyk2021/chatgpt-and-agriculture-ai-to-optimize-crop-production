@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Agricultural Output
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the best practices for utilizing ChatGPT and AI technologies to enhance agricultural output. By leveraging the power of AI, specifically ChatGPT, farmers and agricultural professionals can optimize various aspects of crop production. Let's explore the key considerations and strategies to employ when using AI in agriculture.
 

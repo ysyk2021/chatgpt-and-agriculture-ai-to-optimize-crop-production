@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Farmers
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Farming is a complex and demanding profession, and farmers encounter a variety of challenges that impact their productivity and profitability. In this chapter, we will discuss some of the common challenges faced by farmers and how ChatGPT and AI can help address them.
 

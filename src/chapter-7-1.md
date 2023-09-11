@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Agriculture with ChatGPT
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, a powerful AI tool, holds significant promise for advancing agriculture and revolutionizing the way we optimize crop production. This chapter explores potential advancements that can be achieved by harnessing the capabilities of ChatGPT in the field of agriculture.
 

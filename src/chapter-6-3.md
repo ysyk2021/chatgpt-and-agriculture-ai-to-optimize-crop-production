@@ -1,5 +1,4 @@
-Chapter: Case Studies of Farmers Successfully Implementing ChatGPT for Crop Production
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore real-world case studies of farmers who have successfully implemented ChatGPT and other AI technologies to optimize crop production. These examples highlight the practical applications and benefits of using AI in agriculture. Let's delve into these inspiring stories that showcase the transformative power of ChatGPT in farming.
 

@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for Agriculture
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that arise from the adoption of AI technologies, particularly chatbots, in agriculture. By leveraging AI, farmers can optimize various aspects of crop production and bring about significant improvements in productivity, sustainability, and decision-making processes.
 

@@ -1,5 +1,4 @@
-Chapter: Different Types of Crops
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Understanding the various types of crops is essential for optimizing agricultural practices and maximizing crop production. This chapter explores the classification and characteristics of different crop types, highlighting their significance in global agriculture.
 

@@ -1,5 +1,4 @@
-Chapter: Definition of Agriculture
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Agriculture is a multifaceted and essential field that encompasses various activities related to the cultivation of crops, raising livestock, and the production of food, fiber, and other agricultural products. It plays a fundamental role in providing sustenance, economic stability, and environmental sustainability.
 

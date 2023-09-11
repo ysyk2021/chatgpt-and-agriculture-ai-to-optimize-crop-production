@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Optimize Crop Production
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ways in which AI technologies and chatbots can revolutionize crop production. By harnessing the power of AI, farmers can optimize various aspects of their farming practices, leading to increased productivity, resource efficiency, and overall crop yield.
 
